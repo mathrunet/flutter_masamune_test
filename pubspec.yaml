@@ -2,12 +2,12 @@ name: masamune_test
 description: >-
   Masamune framework testing plugin.
   Basically, it is used inside Masamune framework.
-version: 0.1.2+1
+version: 0.5.0
 homepage: https://mathru.net
 repository: https://github.com/mathrunet/flutter_masamune_test
 
 environment:
-  sdk: ">=2.6.0 <3.0.0"
+  sdk: ">=2.8.0 <3.0.0"
 
 dependencies:
   flutter:
